@@ -11,8 +11,8 @@ Ten projekt zawiera implementację szyfru Cezara na tablicy ASCII z pominięciem
 
 
 ## Struktura projektu:
-- ceasar_cipher.py – implementacja szyfru Cezara.
-- test_ceasar_cipher.py – plik zawierający testy jednostkowe.
+- szyfrCezara.py – implementacja szyfru Cezara.
+- Test_szyfrCezara – plik zawierający testy jednostkowe.
 
 ## Źródła
 - [Testy jednostkowe w Pythonie - jak pisać i optymalizować](https://programistajava.pl/2025/01/03/testy-jednostkowe-w-pythonie-jak-pisac-i-optymalizowac/)
